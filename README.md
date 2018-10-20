@@ -3,7 +3,7 @@
 既是笔记也是博客，欢迎 `watch` 订阅、`star` 收藏。
 
 ## 加载优化
-[preload & prefetch](https://github.com/hanrenguang/notes/issues/15)  
+[preload & prefetch](https://github.com/hanrenguang/notes/issues/16)  
 
 ## 前后端交互
 [关于express-session无法设置浏览器cookie的问题](https://github.com/hanrenguang/notes/issues/15)  
