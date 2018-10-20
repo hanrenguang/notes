@@ -2,7 +2,7 @@
 
 既是笔记也是博客，欢迎 `watch` 订阅、`star` 收藏。
 
-## 加载优化
+## 前端优化
 [preload & prefetch](https://github.com/hanrenguang/notes/issues/16)  
 
 ## 前后端交互
