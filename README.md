@@ -31,3 +31,4 @@
 
 ## Unity3D
 [Unity3D学习记录](https://github.com/hanrenguang/notes/issues/11)  
+[重载/加载 scene](https://github.com/hanrenguang/notes/issues/18)  
