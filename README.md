@@ -2,7 +2,7 @@
 
 既是笔记也是博客，欢迎 `watch` 订阅、`star` 收藏。
 
-## 标签目录
+## 目录
 * [前端优化](https://github.com/hanrenguang/notes#前端优化)  
 * [前后端交互](https://github.com/hanrenguang/notes#前后端交互)  
 * [JavaScript](https://github.com/hanrenguang/notes#javascript)  
