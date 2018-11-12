@@ -21,6 +21,9 @@
 [CSS垂直居中](https://github.com/hanrenguang/notes/issues/3)  
 [BFC(块级格式化上下文)](https://github.com/hanrenguang/notes/issues/1)  
 
+## Git
+[Git版本回退](https://github.com/hanrenguang/notes/issues/19)  
+
 ## MySQL
 [MySQL删除数据表中外键列方法](https://github.com/hanrenguang/notes/issues/14)  
 [Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client](https://github.com/hanrenguang/notes/issues/13)  
