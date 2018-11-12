@@ -2,6 +2,16 @@
 
 既是笔记也是博客，欢迎 `watch` 订阅、`star` 收藏。
 
+## 标签目录
+[前端优化](https://github.com/hanrenguang/notes#前端优化)  
+[前后端交互](https://github.com/hanrenguang/notes#前后端交互)  
+[JavaScript](https://github.com/hanrenguang/notes#javascript)  
+[CSS](https://github.com/hanrenguang/notes#css)  
+[MySQL](https://github.com/hanrenguang/notes#mysql)  
+[微信小程序](https://github.com/hanrenguang/notes#微信小程序)  
+[Unity3D](https://github.com/hanrenguang/notes#unity3d)  
+[Git](https://github.com/hanrenguang/notes#git)  
+
 ## 前端优化
 [preload & prefetch](https://github.com/hanrenguang/notes/issues/16)  
 
@@ -21,9 +31,6 @@
 [CSS垂直居中](https://github.com/hanrenguang/notes/issues/3)  
 [BFC(块级格式化上下文)](https://github.com/hanrenguang/notes/issues/1)  
 
-## Git
-[Git版本回退](https://github.com/hanrenguang/notes/issues/19)  
-
 ## MySQL
 [MySQL删除数据表中外键列方法](https://github.com/hanrenguang/notes/issues/14)  
 [Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client](https://github.com/hanrenguang/notes/issues/13)  
@@ -35,3 +42,6 @@
 ## Unity3D
 [重载/加载 scene](https://github.com/hanrenguang/notes/issues/18)  
 [Unity3D学习记录](https://github.com/hanrenguang/notes/issues/11)  
+
+## Git
+[Git版本回退](https://github.com/hanrenguang/notes/issues/19)  
