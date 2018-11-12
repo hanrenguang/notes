@@ -3,14 +3,14 @@
 既是笔记也是博客，欢迎 `watch` 订阅、`star` 收藏。
 
 ## 标签目录
-[前端优化](https://github.com/hanrenguang/notes#前端优化)  
-[前后端交互](https://github.com/hanrenguang/notes#前后端交互)  
-[JavaScript](https://github.com/hanrenguang/notes#javascript)  
-[CSS](https://github.com/hanrenguang/notes#css)  
-[MySQL](https://github.com/hanrenguang/notes#mysql)  
-[微信小程序](https://github.com/hanrenguang/notes#微信小程序)  
-[Unity3D](https://github.com/hanrenguang/notes#unity3d)  
-[Git](https://github.com/hanrenguang/notes#git)  
+* [前端优化](https://github.com/hanrenguang/notes#前端优化)  
+* [前后端交互](https://github.com/hanrenguang/notes#前后端交互)  
+* [JavaScript](https://github.com/hanrenguang/notes#javascript)  
+* [CSS](https://github.com/hanrenguang/notes#css)  
+* [MySQL](https://github.com/hanrenguang/notes#mysql)  
+* [微信小程序](https://github.com/hanrenguang/notes#微信小程序)  
+* [Unity3D](https://github.com/hanrenguang/notes#unity3d)  
+* [Git](https://github.com/hanrenguang/notes#git)  
 
 ## 前端优化
 [preload & prefetch](https://github.com/hanrenguang/notes/issues/16)  
