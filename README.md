@@ -33,7 +33,7 @@
 
 ## MySQL
 [MySQL删除数据表中外键列方法](https://github.com/hanrenguang/notes/issues/14)  
-[Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client](https://github.com/hanrenguang/notes/issues/13)  
+[Error: ER_NOT_SUPPORTED_AUTH_MODE](https://github.com/hanrenguang/notes/issues/13)  
 [Windows系统下的MySQL安装](https://github.com/hanrenguang/notes/issues/12)  
 
 ## 微信小程序
