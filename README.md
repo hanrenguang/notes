@@ -26,6 +26,7 @@
 [Promise与setTimeout(fn, 0)](https://github.com/hanrenguang/notes/issues/2)  
 
 ## CSS
+[CSS复习](https://github.com/hanrenguang/notes/issues/20)  
 [图片固定宽高比](https://github.com/hanrenguang/notes/issues/5)  
 [两种盒子模型](https://github.com/hanrenguang/notes/issues/4)  
 [CSS垂直居中](https://github.com/hanrenguang/notes/issues/3)  
