@@ -11,6 +11,7 @@
 * [微信小程序](https://github.com/hanrenguang/notes#微信小程序)  
 * [Unity3D](https://github.com/hanrenguang/notes#unity3d)  
 * [Git](https://github.com/hanrenguang/notes#git)  
+* [前端工程化](https://github.com/hanrenguang/notes#前端工程化)  
 
 ## 前端优化
 [preload & prefetch](https://github.com/hanrenguang/notes/issues/16)  
@@ -46,3 +47,6 @@
 
 ## Git
 [Git版本回退](https://github.com/hanrenguang/notes/issues/19)  
+
+## 前端工程化
+[babel7实践](https://github.com/hanrenguang/notes/issues/21)  
