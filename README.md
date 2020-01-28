@@ -12,6 +12,7 @@
 * [Unity3D](https://github.com/hanrenguang/notes#unity3d)  
 * [Git](https://github.com/hanrenguang/notes#git)  
 * [前端工程化](https://github.com/hanrenguang/notes#前端工程化)  
+* [小工具](https://github.com/hanrenguang/notes#小工具)  
 
 ## 前端优化
 [preload & prefetch](https://github.com/hanrenguang/notes/issues/16)  
@@ -50,3 +51,6 @@
 
 ## 前端工程化
 [babel7实践](https://github.com/hanrenguang/notes/issues/21)  
+
+## 小工具
+[从TXT制作Kindle电子书](https://github.com/hanrenguang/notes/issues/22)  
