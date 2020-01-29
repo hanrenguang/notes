@@ -51,6 +51,7 @@
 
 ## 前端工程化
 [babel7实践](https://github.com/hanrenguang/notes/issues/21)  
+[Webpack模块解析构建流程](https://github.com/hanrenguang/notes/issues/23)  
 
 ## 小工具
 [从TXT制作Kindle电子书](https://github.com/hanrenguang/notes/issues/22)  
