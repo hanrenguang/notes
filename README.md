@@ -4,7 +4,7 @@
 
 ## 目录
 * [前端优化](https://github.com/hanrenguang/notes#前端优化)  
-* [前后端交互](https://github.com/hanrenguang/notes#前后端交互)  
+* [跨域](https://github.com/hanrenguang/notes#跨域)  
 * [JavaScript](https://github.com/hanrenguang/notes#javascript)  
 * [CSS](https://github.com/hanrenguang/notes#css)  
 * [MySQL](https://github.com/hanrenguang/notes#mysql)  
@@ -17,7 +17,7 @@
 ## 前端优化
 [preload & prefetch](https://github.com/hanrenguang/notes/issues/16)  
 
-## 前后端交互
+## 跨域
 [关于express-session无法设置浏览器cookie的问题](https://github.com/hanrenguang/notes/issues/15)  
 
 ## JavaScript
