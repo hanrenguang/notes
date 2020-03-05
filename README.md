@@ -1,6 +1,6 @@
 # notes
 
-既是笔记也是博客，欢迎 `watch` 订阅、`star` 收藏。
+既是笔记也是博客，欢迎 `watch` 订阅、`star` 收藏。现在我的[个人博客](http://www.fehrg.com)也开通了，欢迎大家围观，目前也提供了 `RSS` 订阅，觉得 `GitHub` 的订阅方式邮件太多，同时想第一时间获取最新更新，都欢迎大家订阅我的博客。
 
 ## 目录
 * [前端优化](https://github.com/hanrenguang/notes#前端优化)  
