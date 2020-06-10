@@ -25,7 +25,6 @@
 [JavaScript实现继承](https://github.com/hanrenguang/notes/issues/8)  
 [JavaScript中的垃圾收集机制](https://github.com/hanrenguang/notes/issues/7)  
 [监听input标签值的变化](https://github.com/hanrenguang/notes/issues/6)  
-[Promise与setTimeout(fn, 0)](https://github.com/hanrenguang/notes/issues/2)  
 
 ## CSS
 [CSS复习](https://github.com/hanrenguang/notes/issues/20)  
