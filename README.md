@@ -12,6 +12,7 @@
 * [Unity3D](https://github.com/hanrenguang/notes#unity3d)  
 * [Git](https://github.com/hanrenguang/notes#git)  
 * [前端工程化](https://github.com/hanrenguang/notes#前端工程化)  
+* [运维](https://github.com/hanrenguang/notes#运维)  
 * [小工具](https://github.com/hanrenguang/notes#小工具)  
 
 ## 前端优化
@@ -52,6 +53,9 @@
 [babel7实践](https://github.com/hanrenguang/notes/issues/21)  
 [Webpack模块解析构建流程](https://github.com/hanrenguang/notes/issues/23)  
 [Webpack调试实践](https://github.com/hanrenguang/notes/issues/24)  
+
+## 运维
+[Xshell提效一篇管够](https://github.com/hanrenguang/notes/issues/25)  
 
 ## 小工具
 [从TXT制作Kindle电子书](https://github.com/hanrenguang/notes/issues/22)  
