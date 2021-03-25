@@ -3,6 +3,7 @@
 既是笔记也是博客，欢迎 `watch` 订阅、`star` 收藏。
 
 ## 目录
+* [Vite](https://github.com/hanrenguang/notes#Vite)  
 * [前端优化](https://github.com/hanrenguang/notes#前端优化)  
 * [跨域](https://github.com/hanrenguang/notes#跨域)  
 * [JavaScript](https://github.com/hanrenguang/notes#javascript)  
@@ -14,6 +15,9 @@
 * [前端工程化](https://github.com/hanrenguang/notes#前端工程化)  
 * [运维](https://github.com/hanrenguang/notes#运维)  
 * [小工具](https://github.com/hanrenguang/notes#小工具)  
+
+## Vite
+[Vite 简介](https://github.com/hanrenguang/notes/issues/26)  
 
 ## 前端优化
 [preload & prefetch](https://github.com/hanrenguang/notes/issues/16)  
