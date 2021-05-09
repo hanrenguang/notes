@@ -3,7 +3,7 @@
 既是笔记也是博客，欢迎 `watch` 订阅、`star` 收藏。
 
 ## 目录
-* [Vite](https://github.com/hanrenguang/notes#Vite)  
+* [前端工程化](https://github.com/hanrenguang/notes#前端工程化)  
 * [前端优化](https://github.com/hanrenguang/notes#前端优化)  
 * [跨域](https://github.com/hanrenguang/notes#跨域)  
 * [JavaScript](https://github.com/hanrenguang/notes#javascript)  
@@ -12,12 +12,16 @@
 * [微信小程序](https://github.com/hanrenguang/notes#微信小程序)  
 * [Unity3D](https://github.com/hanrenguang/notes#unity3d)  
 * [Git](https://github.com/hanrenguang/notes#git)  
-* [前端工程化](https://github.com/hanrenguang/notes#前端工程化)  
 * [运维](https://github.com/hanrenguang/notes#运维)  
 * [小工具](https://github.com/hanrenguang/notes#小工具)  
 
-## Vite
+
+## 前端工程化
+[babel7实践](https://github.com/hanrenguang/notes/issues/21)  
+[Webpack模块解析构建流程](https://github.com/hanrenguang/notes/issues/23)  
+[Webpack调试实践](https://github.com/hanrenguang/notes/issues/24)  
 [Vite 简介](https://github.com/hanrenguang/notes/issues/26)  
+[浅谈前端 monorepo 模式](https://github.com/hanrenguang/notes/issues/27)  
 
 ## 前端优化
 [preload & prefetch](https://github.com/hanrenguang/notes/issues/16)  
@@ -52,11 +56,6 @@
 
 ## Git
 [Git版本回退](https://github.com/hanrenguang/notes/issues/19)  
-
-## 前端工程化
-[babel7实践](https://github.com/hanrenguang/notes/issues/21)  
-[Webpack模块解析构建流程](https://github.com/hanrenguang/notes/issues/23)  
-[Webpack调试实践](https://github.com/hanrenguang/notes/issues/24)  
 
 ## 运维
 [Xshell提效一篇管够](https://github.com/hanrenguang/notes/issues/25)  
