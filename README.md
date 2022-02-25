@@ -22,6 +22,7 @@
 [Webpack调试实践](https://github.com/hanrenguang/notes/issues/24)  
 [Vite 简介](https://github.com/hanrenguang/notes/issues/26)  
 [浅谈前端 monorepo 模式](https://github.com/hanrenguang/notes/issues/27)  
+[定制 npm 发包流程](https://github.com/hanrenguang/notes/issues/28)  
 
 ## 前端优化
 [preload & prefetch](https://github.com/hanrenguang/notes/issues/16)  
